@@ -2,3 +2,9 @@ https://httpbin.org/html
 https://habr.com/ru/articles/667630/
 bag
 https://google.com
+https://httpbin.org/html
+https://httpbin.org/delay/2
+https://www.python.org
+https://ya.ru
+https://google.com
+https://httpbin.org/status/200
